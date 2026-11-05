@@ -38,29 +38,29 @@
 <a id="about"></a>
 ## About Me
 
+<!-- PERFECT 3-COLUMN RESPONSIVE LAYOUT -->
 <div align="center">
-  <!-- RESPONSIVE BENTO GRID (width 100% instead of fixed height) -->
   <table border="0" cellspacing="0" cellpadding="0" width="100%" style="border: none;">
     <tr>
       <td align="center" width="33%" style="border: none;">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jishnupv709&amp;theme=radical&amp;v=6">
-          <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jishnupv709&amp;theme=default&amp;v=6">
-          <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jishnupv709&amp;theme=radical&amp;v=6" alt="Stats" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jishnupv709&theme=radical&v=7">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jishnupv709&theme=default&v=7">
+          <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jishnupv709&theme=radical&v=7" alt="Stats" />
         </picture>
       </td>
       <td align="center" width="33%" style="border: none;">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jishnupv709&amp;theme=radical&amp;v=6">
-          <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jishnupv709&amp;theme=default&amp;v=6">
-          <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jishnupv709&amp;theme=radical&amp;v=6" alt="Most Commit Language" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jishnupv709&theme=radical&v=7">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jishnupv709&theme=default&v=7">
+          <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jishnupv709&theme=radical&v=7" alt="Most Commit Language" />
         </picture>
       </td>
       <td align="center" width="33%" style="border: none;">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jishnupv709&amp;theme=radical&amp;v=6">
-          <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jishnupv709&amp;theme=default&amp;v=6">
-          <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jishnupv709&amp;theme=radical&amp;v=6" alt="Repos Per Language" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jishnupv709&theme=radical&v=7">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jishnupv709&theme=default&v=7">
+          <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jishnupv709&theme=radical&v=7" alt="Repos Per Language" />
         </picture>
       </td>
     </tr>
@@ -179,9 +179,18 @@
 
 <div align="center">
 
-<a href="https://jishnu-pv.onrender.com"><img src="https://img.shields.io/badge/Portfolio-ff0080?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
-<a href="https://github.com/jishnupv709"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:jishnupv709@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+<a href="https://www.linkedin.com/in/YOUR_PROFILE/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://github.com/jishnupv709">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="https://jishnu-pv.onrender.com">
+  <img src="https://img.shields.io/badge/Portfolio-ff0080?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+</a>
 
 <br/><br/>
 
@@ -190,6 +199,7 @@
 
 <a href="https://github.com/jishnupv709?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repos" /></a>
 <a href="https://img.shields.io/github/followers/jishnupv709?label=Followers&style=for-the-badge&logo=github&color=ff0080" alt="Follow" />
+<a href="https://github.com/jishnupv709?tab=stars"><img src="https://github.com/jishnupv709?tab=stars" alt="Stars" /></a>
 <a href="https://github.com/jishnupv709?tab=stars"><img src="https://img.shields.io/github/stars/jishnupv709?affiliations=OWNER&style=for-the-badge&logo=github&color=7928ca" alt="Stars" /></a>
 
 <br/><br/>
