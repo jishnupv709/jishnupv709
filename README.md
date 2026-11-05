@@ -39,28 +39,28 @@
 ## About Me
 
 <div align="center">
-  <!-- FIXED BENTO GRID (Using <picture> with &amp; and cache buster) -->
-  <table border="0" cellspacing="0" cellpadding="0" style="border: none;">
+  <!-- RESPONSIVE BENTO GRID (width 100% instead of fixed height) -->
+  <table border="0" cellspacing="0" cellpadding="0" width="100%" style="border: none;">
     <tr>
       <td align="center" width="33%" style="border: none;">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jishnupv709&amp;theme=radical&amp;v=5">
-          <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jishnupv709&amp;theme=default&amp;v=5">
-          <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jishnupv709&amp;theme=radical&amp;v=5" alt="Stats" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jishnupv709&amp;theme=radical&amp;v=6">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jishnupv709&amp;theme=default&amp;v=6">
+          <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jishnupv709&amp;theme=radical&amp;v=6" alt="Stats" />
         </picture>
       </td>
       <td align="center" width="33%" style="border: none;">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jishnupv709&amp;theme=radical&amp;v=5">
-          <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jishnupv709&amp;theme=default&amp;v=5">
-          <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jishnupv709&amp;theme=radical&amp;v=5" alt="Most Commit Language" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jishnupv709&amp;theme=radical&amp;v=6">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jishnupv709&amp;theme=default&amp;v=6">
+          <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jishnupv709&amp;theme=radical&amp;v=6" alt="Most Commit Language" />
         </picture>
       </td>
       <td align="center" width="33%" style="border: none;">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jishnupv709&amp;theme=radical&amp;v=5">
-          <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jishnupv709&amp;theme=default&amp;v=5">
-          <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jishnupv709&amp;theme=radical&amp;v=5" alt="Repos Per Language" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jishnupv709&amp;theme=radical&amp;v=6">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jishnupv709&amp;theme=default&amp;v=6">
+          <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jishnupv709&amp;theme=radical&amp;v=6" alt="Repos Per Language" />
         </picture>
       </td>
     </tr>
@@ -189,7 +189,7 @@
 <br/>
 
 <a href="https://github.com/jishnupv709?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repos" /></a>
-<a href="https://github.com/jishnupv709?tab=followers"><img src="https://img.shields.io/github/followers/jishnupv709?label=Followers&style=for-the-badge&logo=github&color=ff0080" alt="Follow" /></a>
+<a href="https://img.shields.io/github/followers/jishnupv709?label=Followers&style=for-the-badge&logo=github&color=ff0080" alt="Follow" />
 <a href="https://github.com/jishnupv709?tab=stars"><img src="https://img.shields.io/github/stars/jishnupv709?affiliations=OWNER&style=for-the-badge&logo=github&color=7928ca" alt="Stars" /></a>
 
 <br/><br/>
