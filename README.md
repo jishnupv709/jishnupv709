@@ -1,7 +1,7 @@
 <a id="top"></a>
 <div align="center">
 
-<!-- Top Animated Wave (Commas encoded to %2C to prevent GitHub parser errors) -->
+<!-- Top Animated Wave (Dual-Mode) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117%2C50:7928ca%2C100:ff0080&height=120&section=header&text=JISHNU%20P%20V&fontSize=50&fontColor=ffffff&animation=fadeIn">
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff%2C50:7928ca%2C100:ff0080&height=120&section=header&text=JISHNU%20P%20V&fontSize=50&fontColor=0d1117&animation=fadeIn">
@@ -39,12 +39,30 @@
 ## About Me
 
 <div align="center">
-  <!-- Top Bento Grid Stats -->
-  <table>
+  <!-- FIXED BENTO GRID (Using <picture> with &amp; and cache buster) -->
+  <table border="0" cellspacing="0" cellpadding="0" style="border: none;">
     <tr>
-      <td align="center" width="33%"><img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jishnupv709&theme=radical" alt="Stats" /></td>
-      <td align="center" width="33%"><img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jishnupv709&theme=radical" alt="Most Commit Language" /></td>
-      <td align="center" width="33%"><img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jishnupv709&theme=radical" alt="Repos Per Language" /></td>
+      <td align="center" width="33%" style="border: none;">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jishnupv709&amp;theme=radical&amp;v=5">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jishnupv709&amp;theme=default&amp;v=5">
+          <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jishnupv709&amp;theme=radical&amp;v=5" alt="Stats" />
+        </picture>
+      </td>
+      <td align="center" width="33%" style="border: none;">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jishnupv709&amp;theme=radical&amp;v=5">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jishnupv709&amp;theme=default&amp;v=5">
+          <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jishnupv709&amp;theme=radical&amp;v=5" alt="Most Commit Language" />
+        </picture>
+      </td>
+      <td align="center" width="33%" style="border: none;">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jishnupv709&amp;theme=radical&amp;v=5">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jishnupv709&amp;theme=default&amp;v=5">
+          <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jishnupv709&amp;theme=radical&amp;v=5" alt="Repos Per Language" />
+        </picture>
+      </td>
     </tr>
   </table>
 </div>
@@ -139,7 +157,7 @@
 
 <div align="center">
 
-<!-- Streak Stats -->
+<!-- Streak Stats (Fully Transparent) -->
 <img src="https://streak-stats.demolab.com?user=jishnupv709&theme=radical&hide_border=true&background=00000000" alt="streak stats" />
 
 <br/><br/>
