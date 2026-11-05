@@ -38,24 +38,19 @@
 <a id="about"></a>
 ## About Me
 
-<!-- RESPONSIVE STATS CARDS (Side-by-side on PC, Stacked & Bigger on Mobile) -->
+<!-- NATIVE RESPONSIVE LAYOUT (No Tables, Auto-stacks on Mobile) -->
 <div align="center">
-  <!-- GitHub Stats -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jishnupv709&amp;theme=radical">
-    <img style="width: 32%; min-width: 320px; margin-bottom: 10px;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jishnupv709&amp;theme=default" alt="GitHub Stats">
+    <img width="300" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jishnupv709&amp;theme=default" alt="GitHub Stats">
   </picture>
-
-  <!-- Most Used Languages -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jishnupv709&amp;theme=radical">
-    <img style="width: 32%; min-width: 320px; margin-bottom: 10px;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jishnupv709&amp;theme=default" alt="Most Commit Language">
+    <img width="300" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jishnupv709&amp;theme=default" alt="Most Commit Language">
   </picture>
-
-  <!-- Repositories Per Language -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jishnupv709&amp;theme=radical">
-    <img style="width: 32%; min-width: 320px; margin-bottom: 10px;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jishnupv709&amp;theme=default" alt="Repos Per Language">
+    <img width="300" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jishnupv709&amp;theme=default" alt="Repos Per Language">
   </picture>
 </div>
 
@@ -171,7 +166,6 @@
 
 <div align="center">
 
-<!-- Social Buttons -->
 <a href="mailto:jishnupv709@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
@@ -187,7 +181,6 @@
 
 <br/><br/>
 
-<!-- GitHub Network -->
 <b>Explore my GitHub Network</b>
 <br/>
 
@@ -197,7 +190,6 @@
 
 <br/><br/>
 
-<!-- Footer -->
 <img src="https://komarev.com/ghpvc/?username=jishnupv709&label=Profile_Views&color=00f5d4&style=for-the-badge" alt="views" />
 <a href="#top"><img src="https://img.shields.io/badge/⬆️_Back_to_Top-ff0080?style=for-the-badge" alt="Back to top" /></a>
 
