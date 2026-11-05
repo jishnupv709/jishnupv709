@@ -1,8 +1,12 @@
 <a id="top"></a>
 <div align="center">
 
-<!-- Top Animated Wave (Neon Theme) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7928ca,100:ff0080&height=120&section=header&text=JISHNU%20P%20V&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
+<!-- Top Animated Wave (Commas encoded to %2C to prevent GitHub parser errors) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117%2C50:7928ca%2C100:ff0080&height=120&section=header&text=JISHNU%20P%20V&fontSize=50&fontColor=ffffff&animation=fadeIn">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff%2C50:7928ca%2C100:ff0080&height=120&section=header&text=JISHNU%20P%20V&fontSize=50&fontColor=0d1117&animation=fadeIn">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117%2C50:7928ca%2C100:ff0080&height=120&section=header&text=JISHNU%20P%20V&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header" />
+</picture>
 
 <!-- Animated Typing -->
 <a href="https://github.com/jishnupv709">
@@ -11,24 +15,23 @@
 
 <br/>
 
-<!-- Premium Status Badges (Neon Theme) -->
-<img src="https://img.shields.io/badge/Experience-4%2B_Years-ff0080?style=for-the-badge&logo=clock&logoColor=white&labelColor=0d1117" alt="Experience" />
-<img src="https://img.shields.io/badge/Location-Kerala,_India-7928ca?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0d1117" alt="Location" />
-<img src="https://img.shields.io/badge/Status-Building-00f5d4?style=for-the-badge&logo=checkmarx&logoColor=black&labelColor=0d1117" alt="Status" />
+<!-- Premium Status Badges -->
+<img src="https://img.shields.io/badge/Experience-4%2B_Years-ff0080?style=for-the-badge&logo=clock&logoColor=white" alt="Experience" />
+<img src="https://img.shields.io/badge/Location-Kerala,_India-7928ca?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+<img src="https://img.shields.io/badge/Status-Building-00f5d4?style=for-the-badge&logo=checkmarx&logoColor=black" alt="Status" />
 
 <br/><br/>
 
-<!-- DESIGNED NAVIGATION BAR (Neon Pill Badges) -->
-<a href="#about"><img src="https://img.shields.io/badge/About-ff0080?style=for-the-badge&labelColor=0d1117" alt="About" /></a>
-<a href="#skills"><img src="https://img.shields.io/badge/Tech_Stack-7928ca?style=for-the-badge&labelColor=0d1117" alt="Tech Stack" /></a>
-<a href="#activity"><img src="https://img.shields.io/badge/Activity-00f5d4?style=for-the-badge&labelColor=0d1117" alt="Activity" /></a>
-<a href="#projects"><img src="https://img.shields.io/badge/Projects-7928ca?style=for-the-badge&labelColor=0d1117" alt="Projects" /></a>
-<a href="#connect"><img src="https://img.shields.io/badge/Connect-ff0080?style=for-the-badge&labelColor=0d1117" alt="Connect" /></a>
+<!-- DESIGNED NAVIGATION BAR -->
+<a href="#about"><img src="https://img.shields.io/badge/About-ff0080?style=for-the-badge" alt="About" /></a>
+<a href="#skills"><img src="https://img.shields.io/badge/Tech_Stack-7928ca?style=for-the-badge" alt="Tech Stack" /></a>
+<a href="#activity"><img src="https://img.shields.io/badge/Activity-00f5d4?style=for-the-badge" alt="Activity" /></a>
+<a href="#connect"><img src="https://img.shields.io/badge/Connect-ff0080?style=for-the-badge" alt="Connect" /></a>
 
 <br/><br/>
 
-<!-- Neon Rect Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff0080,50:7928ca,100:00f5d4&height=3&section=header&animation=fadeIn" width="100%" alt="" />
+<!-- Neon Rect Divider (Encoded commas here too just in case) -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff0080%2C50:7928ca%2C100:00f5d4&height=3&section=header&animation=fadeIn" width="100%" alt="" />
 
 </div>
 
@@ -59,14 +62,13 @@
 </details>
 
 <!-- Neon Rect Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7928ca,100:ff0080&height=2&section=header&animation=fadeIn" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7928ca%2C100:ff0080&height=2&section=header&animation=fadeIn" width="100%" alt="" />
 
 <a id="skills"></a>
 ## Tech Stack
 
 <div align="center">
 
-<!-- BIGGER SKILL ICONS -->
 <a href="https://angular.dev"><img src="https://skillicons.dev/icons?i=angular" width="60" title="Angular" alt="Angular" /></a>
 <a href="https://www.typescriptlang.org"><img src="https://skillicons.dev/icons?i=ts" width="60" title="TypeScript" alt="TypeScript" /></a>
 <a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="60" title="JavaScript" alt="JavaScript" /></a>
@@ -86,19 +88,19 @@
 </div>
 
 <!-- Neon Rect Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7928ca,100:ff0080&height=2&section=header&animation=fadeIn" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7928ca%2C100:ff0080&height=2&section=header&animation=fadeIn" width="100%" alt="" />
 
 <a id="activity"></a>
 ## Activity & Stats
 
 <div align="center">
 
-<!-- Streak Stats Image -->
-<img src="https://streak-stats.demolab.com?user=jishnupv709&theme=radical&hide_border=true&background=0d1117" alt="streak stats" />
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=jishnupv709&theme=radical&hide_border=true&background=00000000" alt="streak stats" />
 
-<br/><br/>
 
-<!-- ITEM 3: Contribution Snake -->
+
+<!-- Contribution Snake -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jishnupv709/jishnupv709/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jishnupv709/jishnupv709/output/github-snake.svg" />
@@ -108,39 +110,34 @@
 </div>
 
 <!-- Neon Rect Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7928ca,100:ff0080&height=2&section=header&animation=fadeIn" width="100%" alt="" />
-
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7928ca%2C100:ff0080&height=2&section=header&animation=fadeIn" width="100%" alt="" />
 
 <a id="connect"></a>
 ## Connect & Explore
 
 <div align="center">
 
-<!-- Social Buttons -->
 <a href="https://jishnu-pv.onrender.com"><img src="https://img.shields.io/badge/Portfolio-ff0080?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
 <a href="https://github.com/jishnupv709"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 <br/><br/>
 
-<!-- GitHub Network -->
 <b>Explore my GitHub Network</b>
 <br/>
 
 <a href="https://github.com/jishnupv709?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repos" /></a>
-<a href="https://github.com/jishnupv709?tab=followers"><img src="https://img.shields.io/github/followers/jishnupv709?label=Followers&style=for-the-badge&logo=github&color=ff0080&labelColor=0d1117" alt="Follow" /></a>
-<a href="https://github.com/jishnupv709?tab=stars"><img src="https://img.shields.io/github/stars/jishnupv709?affiliations=OWNER&style=for-the-badge&logo=github&color=7928ca&labelColor=0d1117" alt="Stars" /></a>
+<a href="https://github.com/jishnupv709?tab=followers"><img src="https://img.shields.io/github/followers/jishnupv709?label=Followers&style=for-the-badge&logo=github&color=ff0080" alt="Follow" /></a>
+<a href="https://github.com/jishnupv709?tab=stars"><img src="https://img.shields.io/github/stars/jishnupv709?affiliations=OWNER&style=for-the-badge&logo=github&color=7928ca" alt="Stars" /></a>
 
 <br/><br/>
 
-<!-- Footer -->
-<img src="https://komarev.com/ghpvc/?username=jishnupv709&label=Profile_Views&color=00f5d4&style=for-the-badge&labelColor=0d1117" alt="views" />
-<a href="#top"><img src="https://img.shields.io/badge/⬆️_Back_to_Top-ff0080?style=for-the-badge&labelColor=0d1117" alt="Back to top" /></a>
+<img src="https://komarev.com/ghpvc/?username=jishnupv709&label=Profile_Views&color=00f5d4&style=for-the-badge" alt="views" />
+<a href="#top"><img src="https://img.shields.io/badge/⬆️_Back_to_Top-ff0080?style=for-the-badge" alt="Back to top" /></a>
 
 </div>
 
 <br/>
 
-<!-- Bottom Animated Wave (Neon Theme) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,100:7928ca&height=100&section=footer&animation=twinkling" width="100%" />
+<!-- Bottom Animated Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080%2C100:7928ca&height=100&section=footer&animation=twinkling" width="100%" />
