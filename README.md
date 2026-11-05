@@ -30,7 +30,7 @@
 
 <br/><br/>
 
-<!-- Neon Rect Divider (Encoded commas here too just in case) -->
+<!-- Neon Rect Divider -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff0080%2C50:7928ca%2C100:00f5d4&height=3&section=header&animation=fadeIn" width="100%" alt="" />
 
 </div>
@@ -39,27 +39,71 @@
 ## About Me
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1&pause=100000&color=ff0080&center=true&vCenter=true&width=700&height=130&lines=%24+cat+jishnu.json;%7B+%22role%22%3A+%22Full-Stack+Developer%22%2C;%22focus%22%3A+%5B%22Angular%22%2C%22NestJS%22%2C%22MongoDB%22%5D%2C;%22ships_on%22%3A+%5B%22Firebase%22%2C%22Vercel%22%2C%22Render%22%5D+%7D" alt="terminal" />
+  <!-- Top Bento Grid Stats -->
+  <table>
+    <tr>
+      <td align="center" width="33%"><img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jishnupv709&theme=radical" alt="Stats" /></td>
+      <td align="center" width="33%"><img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jishnupv709&theme=radical" alt="Most Commit Language" /></td>
+      <td align="center" width="33%"><img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jishnupv709&theme=radical" alt="Repos Per Language" /></td>
+    </tr>
+  </table>
 </div>
 
-<details>
-<summary><b>🧠 What I'm into</b> <sub>(click to expand)</sub></summary>
 <br/>
 
-- 🅰️ Angular architecture, clean components, fast UIs
-- 🟥 NestJS APIs with MongoDB
-- 🐍 Python Flask when a lightweight backend fits
-- ☁️ Shipping to Firebase, Vercel and Render
+<!-- PICTORIAL GRID SECTION -->
+<div align="center">
 
-</details>
+  <h3>🧠 What I'm Into</h3>
 
-<details>
-<summary><b>🎯 What I'm focused on right now</b></summary>
-<br/>
+  <table border="0" align="center">
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://skillicons.dev/icons?i=angular" width="70" /><br/>
+        <b>Angular Architecture</b><br/>
+        <sub>Clean components & fast UIs</sub>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://skillicons.dev/icons?i=nestjs" width="70" /><br/>
+        <b>NestJS APIs</b><br/>
+        <sub>Scalable enterprise backends</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://skillicons.dev/icons?i=flask" width="70" /><br/>
+        <b>Python Flask</b><br/>
+        <sub>Lightweight microservices</sub>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://skillicons.dev/icons?i=firebase" width="70" /><br/>
+        <b>Cloud Deployment</b><br/>
+        <sub>Seamless CI/CD to Firebase & Vercel</sub>
+      </td>
+    </tr>
+  </table>
 
-**NestJS** · **MongoDB** · **Angular**, building full-stack apps end to end.
+  <br/><br/>
 
-</details>
+  <h3>🎯 Current Focus</h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF0080&center=true&vCenter=true&width=600&lines=Building+Full-Stack+Applications+End-to-End" alt="Focus" />
+  
+  <br/>
+  <p>My daily driver stack:</p>
+  
+  <!-- FINAL NEON ARROWS STACK -->
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=angular" width="55" align="middle" alt="Angular" />
+    &nbsp; <b style="color:#ff0080; font-size: 24px;">➜</b> &nbsp;
+    <img src="https://skillicons.dev/icons?i=nestjs" width="55" align="middle" alt="NestJS" />
+    &nbsp; <b style="color:#00f5d4; font-size: 24px;">➜</b> &nbsp;
+    <img src="https://skillicons.dev/icons?i=mongodb" width="55" align="middle" alt="MongoDB" />
+  </p>
+
+  <br/>
+  <i>Focusing on performance, clean architecture, and seamless user experiences.</i>
+  
+</div>
 
 <!-- Neon Rect Divider -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7928ca%2C100:ff0080&height=2&section=header&animation=fadeIn" width="100%" alt="" />
@@ -98,7 +142,7 @@
 <!-- Streak Stats -->
 <img src="https://streak-stats.demolab.com?user=jishnupv709&theme=radical&hide_border=true&background=00000000" alt="streak stats" />
 
-
+<br/><br/>
 
 <!-- Contribution Snake -->
 <picture>
